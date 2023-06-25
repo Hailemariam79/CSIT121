@@ -1,11 +1,11 @@
-body {background-color: #e23de5;
-  color:#f8f9f8;
+body {background-color: #e89beb;
+  color: #fbfbfb;
   font-family: Arial; margin-top:1%}
-h1{background-color: red;
-  color: blue}
-h2{background-color: pink;
-  color: Black}
+h1{background-color: #ce20a4;
+  color: #2533e5}
+h2{background-color: #e89beb;
+  color: #2533e5}
 h3{background-color: pink;
   color: blue; text-transform: uppercase;}
 ul{background-color: pink;
-  color: brown}
+  color: #f7f6f7}
