@@ -2,7 +2,9 @@ body {background-color: #e89beb;
   color: #fbfbfb;
   font-family: Arial; margin-top:1%}
 h1{background-color: #ce20a4;
-  color: #2533e5}
+  color: #2533e5; background-image: url(https://cdn.pixabay.com/photo/2022/04/30/19/12/cooking-banner-7166200_1280.jpg); 
+  height: 200px;
+}
 h2{background-color: #e89beb;
   color: #2533e5}
 h3{background-color: pink;
