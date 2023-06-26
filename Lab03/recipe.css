@@ -2,12 +2,19 @@ body {background-color: #e89beb;
   color: #fbfbfb;
   font-family: Arial; margin-top:1%}
 h1{background-color: #ce20a4;
-  color: #2533e5; background-image:url(https://cdn.pixabay.com/photo/2022/04/30/19/12/cooking-banner-7166200_1280.jpg); 
-  height: 200px;
+  color: #2533e5; padding-left: 800px; padding-top: 30px;
+     border-width: 4px;
+                 border-style: dashed;
+                 border-color: #ce20a4; background-image:  url(https://cdn.pixabay.com/photo/2022/04/30/19/12/cooking-banner-7166200_1280.jpg); 
+  height: 150px;
 }
 h2{background-color: #e89beb;
-  color: #2533e5}
+  color: #2533e5; padding-left: 800px
+   }
 h3{background-color: pink;
-  color: blue; text-transform: uppercase;}
+  color: blue; padding-left: 900px; text-transform: uppercase; border: 3px ridge #330000; 
+ border-radius: 15px;
+ padding-top: 10px;
+ color: #333333;}
 ul{background-color: pink;
   color: #f7f6f7}
