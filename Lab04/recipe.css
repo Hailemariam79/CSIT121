@@ -1,0 +1,76 @@
+body {
+background-color : #e89beb;
+color : #fbfbfb;
+font-family : Arial;
+margin-top : 1%;
+}
+h1 {
+background-color : #ce20a4;
+color : #2533e5;
+padding-left : 100px;
+padding-top : 30px;
+background-image : url(https://cdn.pixabay.com/photo/2022/04/30/19/12/cooking-banner-7166200_1280.jpg);
+height : 100px;
+}
+h2 {
+background-color : #e89beb;
+color : #2533e5;
+padding-left : 350px;
+}
+h3 {
+background-color : #e89beb;
+color : #2533e5;
+padding-left : 350px;
+text-transform : uppercase;
+border : #330000 ridge 3px;
+}
+ul {
+background-color : #e89beb;
+color : #2533e5;
+}
+ol {
+background-color : #e89beb;
+color : #2533e5;
+}
+p {
+position : relative;
+bottom : 300px;
+left : 400px;
+width : calc(65% - 200px);
+height : calc(100% - 140px);
+color : #2533e5;
+}
+.container {
+width : 80%;
+margin : 0 auto;
+position : relative;
+}
+header {
+position : absolute;
+top : 0;
+left : 0;
+width : 100%;
+background-color : #ce20a4;
+color : #2533e5;
+text-align : center;
+line-height : 70px;
+}
+main {
+position : relative;
+bottom : 450px;
+left : 620px;
+width : calc(65% - 200px);
+height : calc(100% - 140px);
+background-color : #fff;
+}
+footer {
+position : absolute;
+bottom : 0;
+left : 0;
+width : 100%;
+height : 70px;
+background-color : #ce20a4;
+color : #2533e5;
+text-align : center;
+line-height : 70px;
+}
