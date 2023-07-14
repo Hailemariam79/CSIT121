@@ -1,0 +1,39 @@
+*{
+  padding: 0;
+  margin: 0;
+  Text-decoration: none;
+  list-style: none;
+  box-sizing: border-box
+}
+Body{
+  font-family: Arial; margin-top:1%
+}
+nav{
+  background: #008000;
+  height: 80px;
+  width: 100%;
+  font-weight: bold;
+}
+h1{ background: #ff0000;
+  padding: 0 600px;
+ }
+nav ul li{ 
+  display: inline;
+  justify-content: Space-between;
+  line-height: 80px;
+  font-size: 20px;
+  margin: 0 50px;
+  text-transform: uppercase;
+}
+nav li a:hover{
+  background:#ff8c69;
+  transition: all.5s ease;
+  }
+section{
+  background: url("https://th.bing.com/th/id/R.938eeaca160721c0c1d231ab0315fb2f?rik=oB%2fcXgtuH3iDUw&riu=http%3a%2f%2fhdqwalls.com%2fwallpapers%2flake-8k-blue-landscape-artistic-vn.jpg&ehk=u%2f2GqebDxgImZ17Yu4JVTGZx6OKM8SITkHNwwoXBvho%3d&risl=1&pid=ImgRaw&r=0") no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: calc(100vh - 80);
+  font-size: 20px
+  
+}
