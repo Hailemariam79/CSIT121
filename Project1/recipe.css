@@ -43,7 +43,20 @@ section{
   width: 100%;
   height: calc(100vh);
   font-size: 20px
-  
+  }
+img{
+  max-width: 400px;
+  max-height: 400px;
+  justify-content: center;
+
+}
+div{display: flex;
+margin: 10px;
+width: 320px;
+height: 480px;
+}
+#border-img{border:25px solid blue;
+padding: 5px}
 }
 footer {
 position : absolute;
