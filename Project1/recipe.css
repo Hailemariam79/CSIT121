@@ -8,6 +8,12 @@
 Body{
   font-family: Arial; margin-top:1%
 }
+nav{
+  background: #008000;
+  height: 80px;
+  width: 100%;
+  font-weight: bold;
+}
 nav ul li{ 
   display: inline;
   justify-content: Space-between;
