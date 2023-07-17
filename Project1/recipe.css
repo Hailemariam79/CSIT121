@@ -29,14 +29,7 @@ nav li a:hover{
   background:#ff8c69;
   transition: all.5s ease;
   }  
-h1 {
-background-color : #ce20a4;
-color : #2533e5;
-padding-left : 100px;
-padding-top : 30px;
-background-image : url(https://cdn.pixabay.com/photo/2022/04/30/19/12/cooking-banner-7166200_1280.jpg);
-height : 100px;
-}
+
 section{
   background: url(https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F2RNK1P0BYVrSCZEy_Sd1Ew%252F3417757448_4a6bdf36ce_o.jpg&width=910) no-repeat;
   background-size: cover;
