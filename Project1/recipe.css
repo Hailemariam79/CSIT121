@@ -5,11 +5,8 @@
   list-style: none;
   box-sizing: border-box
 }
-body {
-background-color : #e89beb;
-color : #fbfbfb;
-font-family : Arial;
-margin-top : 1%;
+Body{
+  font-family: Arial; margin-top:1%
 }
 nav ul li{ 
   display: inline;
