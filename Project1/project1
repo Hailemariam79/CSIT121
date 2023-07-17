@@ -1,37 +1,6 @@
-*{
-  padding: 0;
-  margin: 0;
-  Text-decoration: none;
-  list-style: none;
-  box-sizing: border-box
-}
-Body{
-  font-family: Arial; margin-top:1%
-}
-nav{
-  background: #008000;
-  height: 80px;
-  width: 100%;
-  font-weight: bold;
-}
-h1{ background: #ff0000;
-  padding: 0 600px;
- }
-nav ul li{ 
-  display: inline;
-  float: left;
-  line-height: 80px;
-  font-size: 20px;
-  margin-right: 200px;
-  text-transform: uppercase;
-}
-a.active,a:hover{
-  background:#1b9bff;
-  transition:.5s;
-  }
-section{
-  background: url("https://cdn.wallpapersafari.com/54/77/yRVFa8.jpg") no-repeat;
-  background-size: 
-  height: calc(100vh-80px);
-  
+body {
+background-color : #e89beb;
+color : #fbfbfb;
+font-family : Arial;
+margin-top : 1%;
 }
