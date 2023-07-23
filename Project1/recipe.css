@@ -40,8 +40,8 @@ section{
   width: 100%;
   height: calc(100vh);
   font-size: 20px
-  @media (max-width 468px){
-  font_color: Pink;}
+  @media (min-width 468px){
+  font_color: #d12aaa;}
   }
 img{
   max-width: 400px;
