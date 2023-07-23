@@ -10,14 +10,14 @@ Body{
 }
 h1{ background: #ff0000;
   padding: 0 600px;
-   @media( max-width: 480px)
+   @media( min-width: 480px)
  }
 nav{
   background: #008000;
   height: 80px;
   width: 100%;
   font-weight: bold;
-  @media( max-width: 480px)
+  @media( min-width: 480px)
 }
 nav ul li{ 
   display: inline;
