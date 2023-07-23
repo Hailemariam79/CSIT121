@@ -41,7 +41,7 @@ section{
   height: calc(100vh);
   font-size: 20px
   @media(max-width: 400px;
- 	text-emphasis-color:#FF00FF ;
+ 	color:#FF00FF ;
   }
 img{
   max-width: 400px;
