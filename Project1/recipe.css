@@ -40,8 +40,8 @@ section{
   width: 100%;
   height: calc(100vh);
   font-size: 20px
-  @media (max-width 400px){
-  font_color: #FF00FF;}
+  @media(max-width: 400px;
+ 	text-emphasis-color:#FF00FF ;
   }
 img{
   max-width: 400px;
