@@ -19,7 +19,7 @@ nav{
   font-weight: bold;
   @media( min-width: 480px)
   display:block;
-  font-size:25px;
+  font-size:100px;
 }
 nav ul li{ 
   display: inline;
