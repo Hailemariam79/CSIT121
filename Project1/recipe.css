@@ -28,6 +28,9 @@ nav ul li{
   font-size: 20px;
   margin: 0 50px;
   text-transform: uppercase;
+  @media( min-width: 480px)
+  display:block;
+  font-size:100px;
 }
 nav li a:hover{
   background:#ff8c69;
