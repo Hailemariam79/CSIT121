@@ -1,0 +1,55 @@
+body {background-color: #e89beb;
+}
+.wrapper {overflow: auto;}
+h1 {
+background-color : #ce20a4;
+color : #2533e5;
+padding-left : 200px;
+padding-top : 0px;
+background-image : url(https://cdn.pixabay.com/photo/2022/04/30/19/12/cooking-banner-7166200_1280.jpg);
+height : 100px;
+ }
+h3{ background: #ce20a4;
+  border: 5px solid #d4d4d4;
+  border-radius: 4px;
+  margin: 10px;
+  padding: 2px;}
+h2{background: #ce20a4;
+  border: 5px solid #d4d4d4;
+  border-radius: 4px;
+  margin: 10px;
+  padding: 2px;}
+
+#main {margin-left: 4px;}
+
+#leftsidebar {
+  float: none;
+  width: auto;
+}
+
+#menulist {
+  margin: 0;
+  padding: 0;
+}
+
+.menuitem {
+  background: #ce20a4;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  list-style-type: none;
+  margin: 4px;
+  padding: 2px;
+}
+#main {
+  background: #ce20a4;
+  border: 5px solid #d4d4d4;
+  border-radius: 4px;
+  margin: 60px;
+  padding: 2px;
+}
+
+@media screen and (min-width: 480px) {
+  #leftsidebar {width: 200px; float: left;}
+  #main {margin-left: 216px;}
+ 
+}
