@@ -41,7 +41,7 @@ section{
   height: calc(100vh);
   font-size: 20px
   @media (min-width 468px){
-  font_color: #d12aaa;}
+  font_color: #FF00FF;}
   }
 img{
   max-width: 400px;
