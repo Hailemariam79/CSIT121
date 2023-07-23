@@ -16,6 +16,7 @@ nav{
   height: 80px;
   width: 100%;
   font-weight: bold;
+  @media( max-width: 480px)
 }
 nav ul li{ 
   display: inline;
