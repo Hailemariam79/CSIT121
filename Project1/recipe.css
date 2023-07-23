@@ -10,6 +10,7 @@ Body{
 }
 h1{ background: #ff0000;
   padding: 0 600px;
+   @media( max-width: 480px)
  }
 nav{
   background: #008000;
