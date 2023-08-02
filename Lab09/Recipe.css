@@ -1,0 +1,121 @@
+body {background-color: #e89beb;
+}
+.wrapper {overflow: auto;}
+h1 {
+background-color : #ce20a4;
+color : #2533e5;
+padding-left : 200px;
+padding-top : 0px;
+background-image : url(https://cdn.pixabay.com/photo/2022/04/30/19/12/cooking-banner-7166200_1280.jpg);
+height : 100px;
+ }
+h3{ background: #ce20a4;
+  border: 5px solid #d4d4d4;
+  border-radius: 4px;
+  margin: 10px;
+  padding: 2px;}
+h2{background: #ce20a4;
+  border: 5px solid #d4d4d4;
+  border-radius: 4px;
+  margin: 10px;
+  padding: 2px;}
+
+#main {margin-left: 4px;
+background: #ce20a4;
+Position: relative;
+  border: 5px solid #d4d4d4;
+  border-radius: 4px;
+  margin: 40px
+}
+
+#leftsidebar1 {
+  Padding: 0px;  
+  background: #ce20a4;
+  border: 5px solid #d4d4d4;
+   Position: relative;
+    margin: 40px 
+ 
+  
+}
+#leftsidebar2 {
+  Padding: 0px;
+  background: #ce20a4;
+  border: 5px solid #d4d4d4;
+   Position: relative;
+    left: 0px;
+     margin: 40px
+}
+#menulist {
+  margin: 0;
+  padding: 0;
+}
+#menulist2 {
+  margin: 0;
+  padding: 0;
+}
+
+.menuitem {
+  background: #ce20a4;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  list-style-type: none;
+  margin: 4px;
+  padding: 2px;
+}
+#mains {
+  background: #ce20a4;
+  border: 5px solid #d4d4d4;  
+   Position: relative;
+    Bottom 1000px;
+    left: 0px;
+   margin: 40px
+
+}
+.black{
+  height:20px;
+  margin:10px;
+  background-color:black;
+}
+p{
+  margin:20px;
+}
+table {
+  border-collapse: collapse;
+  width: 25%;
+  padding: 10px;
+  margin-bottom: 2em;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 0.5em;
+}
+
+th {
+  background-color: #ccc;
+  font-weight: bold;
+  text-align: left;
+}
+.one{
+  text-align: left;
+  vertical-align: middle;
+}
+.two{
+  text-align:right;
+}
+
+td {
+  text-align: right;
+  vertical-align: middle;
+}
+
+td[colspan="2"] {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 480px) {
+  #leftsidebar1 {width: 200px; float: left;}
+  #leftsidebar2 {width: 200px; float: left;}
+  #main {width: 200px; float: left;}
+  #mains {width: 200px; float: left;}
+}
