@@ -1,0 +1,30 @@
+body {
+  background-color: cornflowerblue;
+}
+table {
+  border-collapse:collapse;
+  position: absolute;
+  left: 10%;
+  width:20%;
+
+}
+
+th,td{border:3px inset #000000;
+  padding:8px;
+  text-align:left;
+}
+th{background-color:lightgrey;
+}
+tr:nth-child(even){
+  background-color:#FFB6C1;
+}
+tr:nth-child(odd){
+  background-color:magenta;
+}
+td[colspan = "3"] {
+  background-color:#FFB6C1;
+  
+}
+
+caption,header{text-align:center; background-color:violet;border: 3px inset #000000; 
+}
